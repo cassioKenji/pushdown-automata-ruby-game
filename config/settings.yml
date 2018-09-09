@@ -1,0 +1,6 @@
+:game_name: "A Ruby Game"
+:images:
+  :bg: "assets/sprites/bg/"
+  :sprites: "assets/sprites/"
+:site:
+  :title: "Pushdown automata"
